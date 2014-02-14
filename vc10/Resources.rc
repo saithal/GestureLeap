@@ -1,0 +1,7 @@
+#include "..\include\Resources.h"
+
+//RES_ICON	IMAGE	"..\\resources\\cinder_app_icon.Ico"
+RES_MENU129	IMAGE	"..\\resources\\Menu_129.PNG"	
+RES_MENU130	IMAGE	"..\\resources\\Menu_130.PNG"		
+RES_MENU131	IMAGE	"..\\resources\\Menu_131.PNG"
+RES_MENU132	IMAGE	"..\\resources\\Menu_132.PNG"
